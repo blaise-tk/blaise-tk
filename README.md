@@ -6,7 +6,7 @@ I am an enthusiastic AI developer with deep experience spanning a broad spectrum
 </a>
 
 ### Projects:
-- Applio-RVC-Fork: [Applio is a user-friendly fork of Mangio-RVC-Fork/RVC, designed to provide an intuitive interface, especially for newcomers.](https://github.com/IAHispano/Applio-RVC-Fork)
+- Applio-RVC-Fork: [An user-friendly fork of Mangio-RVC-Fork/RVC, designed to provide an intuitive interface, especially for newcomers.](https://github.com/IAHispano/Applio-RVC-Fork)
 
 
 ### My main skills:

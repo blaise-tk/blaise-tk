@@ -1,5 +1,5 @@
 ## 👋🏻 Hello, I'm Blaise. 
-I am an enthusiastic AI developer with deep experience spanning a broad spectrum of technologies. I am extremely proud to be the founder of the [largest Spanish-speaking community focused on artificial intelligence](https://discord.gg/IAHispano).
+I am an enthusiastic AI developer with deep experience spanning a broad spectrum of technologies. I am extremely proud to be the founder of the [largest community focused on artificial intelligence](https://discord.gg/IAHispano).
 
 <a href="https://github-readme-stats.vercel.app/api?username=blaise-tk&show_icons=true&theme=dark#gh-dark-mode-only" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=blaise-tk&show_icons=true&theme=dark#gh-dark-mode-only" />

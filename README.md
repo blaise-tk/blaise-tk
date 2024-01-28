@@ -8,7 +8,7 @@ I am an enthusiastic AI developer with deep experience spanning a broad spectrum
 ### Projects:
 - Applio: [Ultimate voice cloning tool, meticulously optimized for unrivaled power, modularity, and user-friendly experience.](https://github.com/IAHispano/Applio)
 - Applio-Bot: [Versatile Discord bot designed to simplify various tasks!](https://github.com/IAHispano/Applio-Bot)
-- RVC_CLI: [Enables seamless interaction with Retrieval-based-Voice-Conversion through commands, facilitating tasks such as inference, dataset preprocessing, feature extraction, and TensorBoard visualization.](https://github.com/blaise-tk/RVC_CLI)
+- RVC_CLI: [RVC CLI enables seamless interaction with Retrieval-based Voice Conversion through commands or HTTP requests.](https://github.com/blaise-tk/RVC_CLI)
 
 
 ### My main skills:
